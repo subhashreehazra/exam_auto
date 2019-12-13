@@ -28,5 +28,5 @@ Features:<BR />
 <B>Simulate Question:</B> Fetch the questions with type = simulation and simulate different sentences for the answers with various type of variations and upload back to the training collection.<BR />
 <B>Type Answers:</B> For given question with type = exam upload the answers written by students for that question<BR />
 <B>Correct Answers:</B> For a given student, given exam, given question, correct answers. Match the following sentences pairs and submit back to test collection set.<BR />
-LINK TOTHE PORTAL: http://157.245.100.55/ <BR />
+LINK TO THE PORTAL: http://157.245.100.55/ <BR />
 <B>SCREENSHOT.DOC CONSISTS OF THE A FEW SNAPS OF OUR DATA COLLECTION PLATFORM</B>

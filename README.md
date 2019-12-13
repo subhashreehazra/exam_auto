@@ -4,7 +4,7 @@ The goal is to automate the paper correction process even for lengthy answers fo
 Building a conceptual , semantic similarity machine learning model and wrap a scoring above it.
 Plug it wih the web-app and develop a strategy for model maintenance and monitoring
 The current experiment is being done for Operating Systems subject in SRM university
-## MODEL CONSTRUCTION SIAMESE-LSTM
+## MODEL CONSTRUCTION USING SIAMESE-LSTM
 Inspired from Tensorflow Implementation of https://github.com/dhwajraj/deep-siamese-text-similarity <br /> 
 ### Referrences:
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/ <br /> 

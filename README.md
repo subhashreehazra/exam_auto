@@ -10,7 +10,7 @@ Inspired from Tensorflow Implementation of https://github.com/dhwajraj/deep-siam
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/ <br /> 
 https://colah.github.io/posts/2014-07-NLP-RNNs-Representations<BR />
 Using MaLSTM model(Siamese networks + LSTM with Manhattan distance) to detect semantic similarity between question pairs. Training dataset used is a subset of the original Quora Question Pairs Dataset(~363K pairs used).<BR />
-<B>FOR THE SAKE OF MODEL CONSTRUCTION AND SELECTION, WE ARE USING KAGGLE,S QUORA QUESTION PAIRS TO TRAIN THE MODEL INITIALLY, WHILE THE DATA COLLECTION IS BEING DONE.</B><BR />
+<B>FOR THE SAKE OF MODEL CONSTRUCTION AND SELECTION, WE ARE USING KAGGLE'S QUORA QUESTION PAIRS TO TRAIN THE MODEL INITIALLY, WHILE THE DATA COLLECTION IS BEING DONE.</B><BR />
 <B>Data</B><BR />
 GoogleNews-vectors-negative300.bin.gz<BR />
 Kaggle's Quora Question Pairs Dataset<BR />

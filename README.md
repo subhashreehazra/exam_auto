@@ -29,4 +29,5 @@ Features:<BR />
 <B>Type Answers:</B> For given question with type = exam upload the answers written by students for that question<BR />
 <B>Correct Answers:</B> For a given student, given exam, given question, correct answers. Match the following sentences pairs and submit back to test collection set.<BR />
 LINK TO THE PORTAL: http://157.245.100.55/ <BR />
-<B>SCREENSHOT.DOC CONSISTS OF THE A FEW SNAPS OF OUR DATA COLLECTION PLATFORM</B>
+<B>SCREENSHOT.DOC CONSISTS OF THE A FEW SNAPS OF OUR DATA COLLECTION PLATFORM</B><BR />
+Data collection has already been done by collecting examination answers written by students.

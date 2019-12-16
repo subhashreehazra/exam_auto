@@ -37,4 +37,5 @@ LINK TO THE PORTAL: http://157.245.100.55/ <BR />
 
 Data collection has already been done by collecting examination answers written by students.<BR />
 ## WEB PORTAL OF THE APPLICATION
-![HOME PAGE](
+![HOME PAGE](https://github.com/subhashreehazra/exam_auto/blob/master/web%20portal/exam_automation_home.png)
+![ ]

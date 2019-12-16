@@ -30,4 +30,11 @@ Features:<BR />
 <B>Correct Answers:</B> For a given student, given exam, given question, correct answers. Match the following sentences pairs and submit back to test collection set.<BR />
 LINK TO THE PORTAL: http://157.245.100.55/ <BR />
 ![Admin Console](https://github.com/subhashreehazra/exam_auto/blob/master/data%20collection%20platform/Picture1.png)
-Data collection has already been done by collecting examination answers written by students.
+![ ](https://github.com/subhashreehazra/exam_auto/blob/master/data%20collection%20platform/Picture2.png)
+![ ](https://github.com/subhashreehazra/exam_auto/blob/master/data%20collection%20platform/Picture3.png)
+![ ](https://github.com/subhashreehazra/exam_auto/blob/master/data%20collection%20platform/Picture4.png)
+![ ](https://github.com/subhashreehazra/exam_auto/blob/master/data%20collection%20platform/Picture5.png)<br />
+
+Data collection has already been done by collecting examination answers written by students.<BR />
+## WEB PORTAL OF THE APPLICATION
+![HOME PAGE](
